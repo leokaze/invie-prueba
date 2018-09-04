@@ -1,2 +1,2 @@
 # invie-prueba
-para probar conexión desde visual studio code
+tienda de guitarras invie-sibles
